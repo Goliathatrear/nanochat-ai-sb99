@@ -1,4 +1,4 @@
-# 
+# Turbo nanochat plugins. Avec assistant vocal et contrôle de version — optimisé pour des performances et une efficacité maximales.
 
 
 
